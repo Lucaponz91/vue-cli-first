@@ -18,7 +18,7 @@ export default {
     HelloWorld,
     MainTitle,
     MainHero,
-    MainHero
+    
 }
 }
 </script>
